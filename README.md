@@ -31,12 +31,12 @@ xray panel supporting multi-protocol multi-user
 # Install & Upgrade
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/hossinasaadi/x-ui/master/install.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/salmanmehri/x-ui/master/install.sh)
 ```
 
 ## Manual install & upgrade
 
-1. First download the latest compressed package from https://github.com/hossinasaadi/x-ui/releases , generally choose Architecture `amd64`
+1. First download the latest compressed package from https://github.com/salmanmehri/x-ui/releases , generally choose Architecture `amd64`
 2. Then upload the compressed package to the server's `/root/` directory and `root` rootlog in to the server with user
 
 > If your server cpu architecture is not `amd64` replace another architecture
